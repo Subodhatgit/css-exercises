@@ -1,0 +1,16 @@
+.class1,.class2,.class3{
+    background-color: pink;
+    font-family: Verdana,DejaVu Sans, sans-serif;
+
+}
+#idnumber1{
+    color:blue;
+    font-size: 36px;
+}
+.class2{
+    font-size:24px;
+}
+#idnumber2{
+    background-color: lightgreen;
+    font-size:24px;
+}
